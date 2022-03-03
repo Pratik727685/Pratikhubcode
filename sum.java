@@ -6,6 +6,6 @@ class Add
   public static void main(String args[])
   {
     int sum = a + b;
-    System.out.pritln(sum);
+    System.out.pritln("The sum is :"+sum);
   }
 }
